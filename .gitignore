@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+# Runtime logs and generated routing data
+/logs/
+/ruroutes*.dat
+/ru_asn_routes_cache.jsonl
+/ru_combined_routes_analysis.txt
